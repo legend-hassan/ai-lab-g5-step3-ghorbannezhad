@@ -1,0 +1,10 @@
+,value
+tracks_total,14.0000
+genres_total,5.0000
+mean_tracks_per_genre,2.8000
+median_tracks_per_genre,3.0000
+variance_population_tracks_per_genre,1.7600
+variance_sample_tracks_per_genre,2.2000
+std_population_tracks_per_genre,1.3266
+min_tracks_per_genre,1.0000
+max_tracks_per_genre,5.0000
